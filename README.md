@@ -14,11 +14,11 @@ Il est à tous. Il est à personne.
 Le livre complet est disponible gratuitement dans plusieurs formats :
 
 - [🌐 Lire en ligne (HTML)](https://fernando-rayleux.github.io/praevana/)
-- 📄 [PDF](./praevana.pdf)
-- 📘 [EPUB](./praevana.epub)
-- 📄 [TXT](./praevana.txt)
-- 📝 [Markdown](./praevana.md)
-- 🌐 [Version HTML autonome](./praevana.html)
+- 📄 [PDF](./Prævana.pdf)
+- 📘 [EPUB](./Prævana.epub)
+- 📄 [TXT](./Prævana.txt)
+- 📝 [Markdown](./Prævana.md)
+- 🌐 [Version HTML autonome](./Prævana.html)
 
 ---
 
